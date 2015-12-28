@@ -13,10 +13,10 @@ It's not hard to figure out who my friends are by just looking at my mailbox: I 
 
 Have you ever had a quick chat over email, to decide something with a friend? After a few replies, the email thread typically looks like this:
 
->8pm?
->>Ok, what about the usual place?
->>Yes. Want to get together?
->>>Are you around tonight?
+  >8pm?
+  >>Ok, what about the usual place?
+  >>>Yes. Want to get together?
+  >>>>Are you around tonight?
 
 Why doesn't my mail program give me a chat-like interface for such discussions? They are easy to spot: short sentences. Replies that arrive quickly. So even though the underlying transport mechanism is still email, make it look like a chat window.
 
