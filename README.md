@@ -36,6 +36,6 @@ Some emails contain questions. Stuff I need to do. Can this somehow be highlight
 
 ## You can help
 
-You can help by sharing your own ideas. What do you wish email could do for you? File issues with your own suggestions. Vote on proposed ideas so we can figure out which ones are the most popular.
+You can help by sharing your own ideas. What do you wish email could do for you? [File issues](https://github.com/alain94040/coolbox/issues/new) with your own suggestions. Vote on proposed ideas so we can figure out which ones are the most popular.
 
 If you'd like to get more involved, our next step is to design a mock-up of what such an email interface would look like. Building something both intuitive and powerful is hard. Are you up to the challenge? Great!
