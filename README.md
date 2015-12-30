@@ -30,6 +30,8 @@ If an email relates to one of my kids, I want to know: newsletter from the schoo
 
 The same idea applies to more aspects of everyone's life: travel (plane ticket, hotel reservations, by destination). Parties and evites. Can't we build a smarter email client that extracts useful information and groups those emails?
 
+Looks like even Facebook is looking into [something similar](http://www.theverge.com/2015/12/29/10683722/facebook-news-feed-customize-interests-update-shopping).
+
 ### To-Do List
 
 Some emails contain questions. Stuff I need to do. Can this somehow be highlighted? Can the mail client build an automatic to-do list, or remind me of questions I haven't replied to yet.
